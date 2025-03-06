@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741293902 source:g:\Університети\Завдання 1 курс - 2 семестр\bmtp-lab7-Колесник\prj\Колесник-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
